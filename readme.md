@@ -1,4 +1,4 @@
-# AHMED SEFDINE 📊  
+# AHMED SEFDINE
 ### Data Analyst | Statistique & Informatique Décisionnelle | Modélisation Prédictive & BI  
 
 <p align="left">
@@ -77,16 +77,6 @@ Je suis un **Analyste de Données** passionné par l'exploration, la modélisati
 - 🧩 **Résolution de problèmes** – approche structurée face aux défis analytiques  
 - 📢 **Communication claire** – présentation synthétique de résultats techniques  
 - 💡 **Sens produit** – alignement des analyses sur les objectifs métier  
-
----
-
-### 📈 Statistiques GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=radical&count_private=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=radical" alt="Langages les plus utilisés" />
-</p>
-
 ---
 
 <p align="center">
