@@ -80,5 +80,5 @@ Je suis un **Analyste de Données** passionné par l'exploration, la modélisati
 ---
 
 <p align="center">
-  <i>“Les données ne sont pas que des chiffres — ce sont des histoires à raconter, des décisions à prendre, et un avenir à construire.”</i>
+  <i>Les données ne sont pas que des chiffres — ce sont des histoires à raconter, des décisions à prendre, et un avenir à construire.</i>
 </p>
