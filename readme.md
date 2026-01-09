@@ -6,7 +6,7 @@
 <a href="mailto:ahmed.sefdine@uadb.edu.sn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://wa.me/221778080942"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://github.com/sefdineahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="AHMED-SEFDINE-FlowCV-Resume-20260109.pdf"><img src="https://img.shields.io/badge/CV_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV PDF" /></a>
+<a href="AHMED-SEFDINE-CV.pdf"><img src="https://img.shields.io/badge/CV_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV PDF" /></a>
 </p>
 
 ---
