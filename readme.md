@@ -51,24 +51,6 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
 
 ## 📈 GitHub Statistics
 
-### **Option 1: Images statiques (fonctionne toujours)**
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sefdineahmed&theme=default&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### **Option 2: Version simplifiée avec badges uniquement**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefdineahmed&theme=github" width="800" />
 </p>
@@ -81,7 +63,6 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
   </tr>
 </table>
 
-### **Option 3: Si rien ne fonctionne - Créez vos propres stats manuellement**
 <div align="center">
 
 | **Statistiques** | **Valeurs** |
