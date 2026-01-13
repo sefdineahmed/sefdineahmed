@@ -51,17 +51,54 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
 
 ## 📈 GitHub Statistics
 
-### **GitHub Stats**
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=radical&hide_border=true)
+### **Option 1: Images statiques (fonctionne toujours)**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sefdineahmed&theme=default&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-### **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=radical&hide_border=true&langs_count=8)
+### **Option 2: Version simplifiée avec badges uniquement**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefdineahmed&theme=github" width="800" />
+</p>
 
-### **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=sefdineahmed&theme=radical&hide_border=true)
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sefdineahmed&theme=github" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sefdineahmed&theme=github" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sefdineahmed&theme=github" /></td>
+  </tr>
+</table>
 
-### **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sefdineahmed&theme=radical&no-frame=true&column=7)
+### **Option 3: Si rien ne fonctionne - Créez vos propres stats manuellement**
+<div align="center">
+
+| **Statistiques** | **Valeurs** |
+|------------------|-------------|
+| **Repositories** | ![Repos](https://img.shields.io/badge/Repositories-10-blue) |
+| **Stars** | ![Stars](https://img.shields.io/badge/Stars-25-yellow) |
+| **Followers** | ![Followers](https://img.shields.io/badge/Followers-8-green) |
+| **Following** | ![Following](https://img.shields.io/badge/Following-15-lightgrey) |
+| **Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-200+-orange) |
+
+**Top Languages:**
+![Python](https://img.shields.io/badge/Python-45%25-3776AB?logo=python)
+![SQL](https://img.shields.io/badge/SQL-30%25-4479A1?logo=postgresql)
+![R](https://img.shields.io/badge/R-15%25-276DC3?logo=r)
+![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
+
+</div>
 
 ---
 
@@ -93,46 +130,34 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
 - Automated data refresh and anomaly detection
 - KPI visualization and trend analysis
 
-### 🏥 **Medical Data Analysis Pipeline**
-*End-to-end pipeline for medical data processing and analysis*
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
 ---
 
-## 📚 Certifications & Courses
-
-| Badge | Certification | Organization | Status |
-|-------|---------------|--------------|--------|
-| ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-4285F4?logo=google&logoColor=white) | Google Data Analytics Professional Certificate | Coursera | 🟡 In Progress |
-| ![Microsoft Power BI](https://img.shields.io/badge/Microsoft-Power_BI-5E5E5E?logo=microsoft&logoColor=white) | Power BI Desktop for Business Intelligence | Microsoft | ✅ Completed |
-| ![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?logo=postgresql&logoColor=white) | SQL for Data Analysis | DataCamp | ✅ Completed |
-| ![Python](https://img.shields.io/badge/Python-Data_Science-3776AB?logo=python&logoColor=white) | Python for Data Science and Machine Learning | Udemy | ✅ Completed |
-
----
-
-## 📫 Let's Connect!
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sefdineahmed)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@yourhandle)
+| **Certification** | **Status** | **Badge** |
+|-------------------|------------|-----------|
+| **Google Data Analytics** | In Progress | ![Google](https://img.shields.io/badge/Google-Data_Analytics-4285F4?logo=google) |
+| **Power BI Expert** | Completed | ![Power BI](https://img.shields.io/badge/Microsoft-Power_BI-5E5E5E?logo=microsoft) |
+| **SQL Mastery** | Completed | ![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?logo=postgresql) |
+| **Python for Data Science** | Completed | ![Python](https://img.shields.io/badge/Python-Data_Science-3776AB?logo=python) |
 
 </div>
 
 ---
 
-## 📊 Activity Graph
+## 📊 My GitHub Activity
 
-```mermaid
-graph TD
-    A[Data Collection] --> B[Data Cleaning]
-    B --> C[Exploratory Analysis]
-    C --> D[Statistical Modeling]
-    D --> E[Machine Learning]
-    E --> F[Visualization]
-    F --> G[Insights & Reporting]
+### **Recent Contributions**
+```text
+📅 October 2023
+├── 🔨 Working on survival analysis models
+├── 📚 Learning advanced machine learning
+├── 📊 Developing economic dashboard
+└── 🎓 Preparing Master's thesis defense
+
+📅 September 2023
+├── ✅ Completed Python data analysis project
+├── 📈 Published research methodology
+└── 🛠️ Created data cleaning pipeline
