@@ -13,8 +13,6 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sefdineahmed&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
 **Last Updated: October 2025 | 🚀 Always Learning & Growing**
 
