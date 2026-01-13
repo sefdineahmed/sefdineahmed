@@ -63,24 +63,6 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
   </tr>
 </table>
 
-<div align="center">
-
-| **Statistiques** | **Valeurs** |
-|------------------|-------------|
-| **Repositories** | ![Repos](https://img.shields.io/badge/Repositories-10-blue) |
-| **Stars** | ![Stars](https://img.shields.io/badge/Stars-25-yellow) |
-| **Followers** | ![Followers](https://img.shields.io/badge/Followers-8-green) |
-| **Following** | ![Following](https://img.shields.io/badge/Following-15-lightgrey) |
-| **Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-200+-orange) |
-
-**Top Languages:**
-![Python](https://img.shields.io/badge/Python-45%25-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/SQL-30%25-4479A1?logo=postgresql)
-![R](https://img.shields.io/badge/R-15%25-276DC3?logo=r)
-![Other](https://img.shields.io/badge/Other-10%25-lightgrey)
-
-</div>
-
 ---
 
 ## 🎓 Academic Projects
