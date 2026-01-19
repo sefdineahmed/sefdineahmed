@@ -173,6 +173,10 @@ class AhmedSefdine:
 <div align="center">
 ---
 
+---
+
+<div align="center">
+
 ### 💡 Citation Favorite
 
 *"In God we trust, all others must bring data."* — W. Edwards Deming
@@ -181,12 +185,12 @@ class AhmedSefdine:
 
 ⭐️ **Si mes projets vous inspirent, n'hésitez pas à les star !**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefdineahmed/sefdineahmed/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefdineahmed/sefdineahmed/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sefdineahmed/sefdineahmed/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/sefdineahmed/sefdineahmed/blob/output/github-contribution-grid-snake.svg)
 
-**© 2024 Ahmed Sefdine | Fait avec ❤️ et beaucoup de ☕**
+<!-- Alternative si le snake ne fonctionne pas -->
+<!-- Utilisez cette ligne à la place : -->
+<!-- ![](https://raw.githubusercontent.com/sefdineahmed/sefdineahmed/output/github-contribution-grid-snake.svg) -->
+
+**© 2025 Ahmed Sefdine | Fait avec ❤️ et beaucoup de ☕**
 
 </div>
