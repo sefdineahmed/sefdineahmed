@@ -80,12 +80,11 @@ class AhmedSefdine:
 </div>
 
 ---
-
 ## 💼 Domaines d'Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### 📊 Analyse de Données
 - Nettoyage et préparation de données
@@ -95,7 +94,7 @@ class AhmedSefdine:
 - Analyse de régression
 
 </td>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### 🤖 Machine Learning
 - Classification & Régression
@@ -105,9 +104,7 @@ class AhmedSefdine:
 - Model Evaluation & Tuning
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### 📈 Visualisation & BI
 - Dashboards interactifs
@@ -117,7 +114,7 @@ class AhmedSefdine:
 - Data-driven insights
 
 </td>
-<td width="50%">
+<td width="25%" valign="top">
 
 ### 🔬 Recherche Statistique
 - Analyse de survie (Kaplan-Meier, Cox)
@@ -129,6 +126,7 @@ class AhmedSefdine:
 </td>
 </tr>
 </table>
+
 
 ---
 
