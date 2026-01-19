@@ -170,9 +170,6 @@ class AhmedSefdine:
 
 ---
 
-<div align="center">
----
-
 ---
 
 <div align="center">
