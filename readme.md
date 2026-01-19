@@ -127,44 +127,6 @@ class AhmedSefdine:
 </tr>
 </table>
 
-
----
-
-## 🚀 Projets Phares
-
-<details>
-<summary><b>🏥 Analyse de Survie : Cancer Gastrique au Sénégal</b></summary>
-
-**Description :** Étude statistique approfondie sur les facteurs pronostiques du cancer gastrique utilisant les modèles de Kaplan-Meier et Cox.
-
-**Technologies :** R, Python, SAS, Survival Analysis
-
-**Résultats :** Identification de facteurs de risque significatifs et recommandations pour améliorer les protocoles de traitement.
-
-</details>
-
-<details>
-<summary><b>📊 Dashboard de Business Intelligence</b></summary>
-
-**Description :** Création d'un tableau de bord interactif pour le suivi des KPI d'entreprise en temps réel.
-
-**Technologies :** Power BI, SQL, Python (ETL)
-
-**Impact :** Réduction de 40% du temps de reporting et amélioration de la prise de décision stratégique.
-
-</details>
-
-<details>
-<summary><b>🤖 Modèle de Prédiction Machine Learning</b></summary>
-
-**Description :** Développement d'un modèle de classification pour [votre cas d'usage].
-
-**Technologies :** Python, Scikit-learn, Pandas, XGBoost
-
-**Performance :** Précision de XX%, déploiement en production avec API Flask.
-
-</details>
-
 ---
 
 ## 📈 Statistiques GitHub
@@ -173,12 +135,6 @@ class AhmedSefdine:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sefdineahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
