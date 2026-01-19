@@ -132,21 +132,6 @@ class AhmedSefdine:
 
 ---
 
-## 🎓 Formation & Certifications
-
-**Master en Statistique et Informatique Décisionnelle**  
-*Université Alioune Diop de Bambey (UADB)* | En cours
-
-**Licence en [Votre Spécialité]**  
-*[Votre Université]* | Année d'obtention
-
-### 📜 Certifications
-- 🏆 [Certification Data Science - Plateforme]
-- 🏆 [Certification Machine Learning - Plateforme]
-- 🏆 [Certification SQL/Database - Plateforme]
-
----
-
 ## 🚀 Projets Phares
 
 <details>
