@@ -51,10 +51,6 @@ I'm a **Data Analyst** with 2+ years of experience in statistical analysis and d
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefdineahmed&theme=github" width="800" />
-</p>
-
 <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sefdineahmed&theme=github" /></td>
