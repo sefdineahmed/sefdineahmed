@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefdineahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sefdine@uadb.edu.sn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sefdineahmed.streamlit.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=sefdineahmed&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -164,7 +164,7 @@ class AhmedSefdine:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefdineahmed)
 [![Email](https://img.shields.io/badge/Email-Envoyez--moi_un_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sefdine@uadb.edu.sn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez_mon_site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez_mon_site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sefdineahmed.streamlit.app/)
 
 </div>
 
