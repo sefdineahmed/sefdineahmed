@@ -57,12 +57,12 @@
     <td width="50%" valign="top">
       <h3>🤖 Machine Learning & Modélisation</h3>
       <ul>
-        <li>✅ <strong>Apprentissage supervisé vvvvvvvvvvvvvvvvvvv vvvvvvvvvvvv</strong></li>
+        <li>✅ <strong>Apprentissage supervisé </strong></li>
         <li>✅ <strong>Apprentissage non supervisé</strong></li>
         <li>✅ <strong>Feature Engineering</strong> et sélection de variables</li>
-        <li>✅ <strong>Validation croisée</strong> et optimisation d'hyperparamètres</li>
-        <li>✅ <strong>Ensemble methods</strong> (Random Forest, Gradient Boosting)</li>
-        <li>✅ <strong>Deep Learning</strong> (réseaux de neurones, CNN, RNN)</li>
+        <li>✅ <strong>Validation croisée et optimisation d'hyperparamètres</li>
+        <li>✅ <strong>Ensemble methods</strong></li>
+        <li>✅ <strong>Deep Learning</strong></li>
         <li>✅ <strong>MLOps</strong> et déploiement de modèles</li>
       </ul>
     </td>
