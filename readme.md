@@ -26,60 +26,47 @@
 
 ## 💼 Domaines d'Expertise
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ccc;">
       <h3>📊 Analyse Statistique Avancée</h3>
       <ul>
-        <li>✅ <strong>Statistiques descriptives et inférentielles</strong></li>
-        <li>✅ <strong>Tests d'hypothèses</strong> (t-test, ANOVA, Chi², etc.)</li>
-        <li>✅ <strong>Analyse de régression</strong></li>
-        <li>✅ <strong>Analyse de survie</strong></li>
-        <li>✅ <strong>Séries temporelles</strong></li>
-        <li>✅ <strong>Plans d'expériences</strong></li>
-        <li>✅ <strong>Biostatistiques</strong></li>
+        <li><b>Statistiques :</b> Descriptives, inférentielles, tests d'hypothèses.</li>
+        <li><b>Modélisation :</b> Régression (linéaire, logistique), Analyse de survie.</li>
+        <li><b>Séries temporelles :</b> ARIMA, SARIMA, Prophet.</li>
+        <li><b>Recherche :</b> Plans d'expériences, Biostatistiques.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ccc;">
       <h3>📈 Business Intelligence & Reporting</h3>
       <ul>
-        <li>✅ <strong>Conception de tableaux de bord interactifs</strong></li>
-        <li>✅ <strong>KPI tracking</strong> et métriques business</li>
-        <li>✅ <strong>ETL</strong> (Extract, Transform, Load)</li>
-        <li>✅ <strong>Data Storytelling</strong> et communication visuelle</li>
-        <li>✅ <strong>Reporting automatisé</strong> et planification</li>
-        <li>✅ <strong>Analyse de performance</strong> et optimisation</li>
-        <li>✅ <strong>Data-driven decision making</strong></li>
+        <li><b>Visualisation :</b> Tableaux de bord interactifs, Data Storytelling.</li>
+        <li><b>Performance :</b> KPI tracking, analyse d'optimisation.</li>
+        <li><b>Flux :</b> Processus ETL, reporting automatisé.</li>
+        <li><b>Stratégie :</b> Data-driven decision making.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ccc;">
       <h3>🤖 Machine Learning & Modélisation</h3>
       <ul>
-        <li>✅ <strong>Apprentissage supervisé </strong></li>
-        <li>✅ <strong>Apprentissage non supervisé</strong></li>
-        <li>✅ <strong>Feature Engineering</strong> et sélection de variables</li>
-        <li>✅ <strong>Validation croisée et optimisation d'hyperparamètres</li>
-        <li>✅ <strong>Ensemble methods</strong></li>
-        <li>✅ <strong>Deep Learning</strong></li>
-        <li>✅ <strong>MLOps</strong> et déploiement de modèles</li>
+        <li><b>Algorithmes :</b> Supervisé (Random Forest), Non-supervisé (Clustering).</li>
+        <li><b>Optimisation :</b> Feature Engineering, Hyperparamètres.</li>
+        <li><b>Avancé :</b> Deep Learning (CNN, RNN), MLOps.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ccc;">
       <h3>🗂️ Gestion & Ingénierie des Données</h3>
       <ul>
-        <li>✅ <strong>Data cleaning</strong> et prétraitement</li>
-        <li>✅ <strong>Analyse exploratoire (EDA)</strong></li>
-        <li>✅ <strong>Modélisation de bases de données</strong></li>
-        <li>✅ <strong>Requêtes SQL complexes</strong> et optimisation</li>
-        <li>✅ <strong>Big Data processing</strong> (Spark, Hadoop)</li>
-        <li>✅ <strong>Data warehousing</strong> et architecture</li>
-        <li>✅ <strong>Data quality</strong> et gouvernance</li>
+        <li><b>Préparation :</b> Nettoyage (Data cleaning), EDA.</li>
+        <li><b>Architecture :</b> SQL complexe, Data warehousing.</li>
+        <li><b>Infrastructure :</b> Big Data (Spark), Data Gouvernance.</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 ---
