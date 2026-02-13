@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Statisticien+%7C+Data+Analyst;Sp%C3%A9cialiste+en+Informatique+D%C3%A9cisionnelle;Transformer+les+donn%C3%A9es+en+insights+strat%C3%A9giques)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Statisticien+%7C+Data+Analyst;Sp%C3%A9cialiste+en+Informatique+D%C3%A9cisionnelle)](https://git.io/typing-svg)
 </div>
 
 ---
