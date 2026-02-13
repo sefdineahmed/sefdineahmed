@@ -3,12 +3,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Statisticien+%7C+Data+Analyst;Sp%C3%A9cialiste+en+Informatique+D%C3%A9cisionnelle;Transformer+les+donn%C3%A9es+en+insights+strat%C3%A9giques)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefdineahmed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sefdine@uadb.edu.sn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sefdineahmed.streamlit.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=sefdineahmed&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
@@ -90,9 +84,6 @@
 
 ![Snake animation](https://github.com/sefdineahmed/sefdineahmed/blob/output/github-contribution-grid-snake.svg)
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 **© 2025 Ahmed Sefdine** | Fait avec ❤️, Python 🐍 et beaucoup de ☕
 
