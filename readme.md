@@ -24,65 +24,63 @@
 **Localisation :** Dakar, Sénégal 🇸🇳
 ---
 
-
 ## 💼 Domaines d'Expertise
 
 <table>
-<tr>
-<td width="25%" valign="top">
-
-### 📊 Analyse Statistique Avancée
-
-- ✅ **Statistiques descriptives et inférentielles**
-- ✅ **Tests d'hypothèses** (t-test, ANOVA, Chi²)
-- ✅ **Analyse de régression** (linéaire, logistique)
-- ✅ **Analyse de survie** (Kaplan-Meier, Cox)
-- ✅ **Séries temporelles** (ARIMA, Prophet)
-- ✅ **Plans d'expériences** & méthodologie
-- ✅ **Biostatistiques** et épidémiologie
-
-</td>
-<td width="25%" valign="top">
-
-### 🤖 Machine Learning & Modélisation
-
-- ✅ **Apprentissage supervisé** (classification, régression)
-- ✅ **Apprentissage non supervisé** (clustering, PCA)
-- ✅ **Feature Engineering** & sélection
-- ✅ **Validation croisée** & optimisation
-- ✅ **Ensemble methods** (Random Forest, XGBoost)
-- ✅ **Deep Learning** (CNN, RNN)
-- ✅ **MLOps** et déploiement de modèles
-
-</td>
-<td width="25%" valign="top">
-
-### 📈 Business Intelligence & Reporting
-
-- ✅ **Tableaux de bord interactifs** (Power BI, Tableau)
-- ✅ **KPI tracking** & métriques business
-- ✅ **ETL** (Extract, Transform, Load)
-- ✅ **Data Storytelling** & communication visuelle
-- ✅ **Reporting automatisé** & planification
-- ✅ **Analyse de performance** & optimisation
-- ✅ **Data-driven decision making**
-
-</td>
-<td width="25%" valign="top">
-
-### 🗂️ Gestion & Ingénierie des Données
-
-- ✅ **Data cleaning** & prétraitement
-- ✅ **Analyse exploratoire (EDA)**
-- ✅ **Modélisation de bases de données**
-- ✅ **Requêtes SQL complexes** & optimisation
-- ✅ **Big Data processing** (Spark, Hadoop)
-- ✅ **Data warehousing** & architecture
-- ✅ **Data quality** & gouvernance
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Analyse Statistique Avancée</h3>
+      <ul>
+        <li>✅ <strong>Statistiques descriptives et inférentielles</strong></li>
+        <li>✅ <strong>Tests d'hypothèses</strong> (t-test, ANOVA, Chi², etc.)</li>
+        <li>✅ <strong>Analyse de régression</strong> (linéaire, logistique, multinomiale)</li>
+        <li>✅ <strong>Analyse de survie</strong> (Kaplan-Meier, Log-Rank, Cox)</li>
+        <li>✅ <strong>Séries temporelles</strong> (ARIMA, SARIMA, Prophet)</li>
+        <li>✅ <strong>Plans d'expériences</strong> et <strong>méthodologie de recherche</strong></li>
+        <li>✅ <strong>Biostatistiques</strong> et études épidémiologiques</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Business Intelligence & Reporting</h3>
+      <ul>
+        <li>✅ <strong>Conception de tableaux de bord interactifs</strong></li>
+        <li>✅ <strong>KPI tracking</strong> et métriques business</li>
+        <li>✅ <strong>ETL</strong> (Extract, Transform, Load)</li>
+        <li>✅ <strong>Data Storytelling</strong> et communication visuelle</li>
+        <li>✅ <strong>Reporting automatisé</strong> et planification</li>
+        <li>✅ <strong>Analyse de performance</strong> et optimisation</li>
+        <li>✅ <strong>Data-driven decision making</strong></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning & Modélisation</h3>
+      <ul>
+        <li>✅ <strong>Apprentissage supervisé</strong> (Classification, Régression)</li>
+        <li>✅ <strong>Apprentissage non supervisé</strong> (Clustering, PCA, t-SNE)</li>
+        <li>✅ <strong>Feature Engineering</strong> et sélection de variables</li>
+        <li>✅ <strong>Validation croisée</strong> et optimisation d'hyperparamètres</li>
+        <li>✅ <strong>Ensemble methods</strong> (Random Forest, Gradient Boosting)</li>
+        <li>✅ <strong>Deep Learning</strong> (réseaux de neurones, CNN, RNN)</li>
+        <li>✅ <strong>MLOps</strong> et déploiement de modèles</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Gestion & Ingénierie des Données</h3>
+      <ul>
+        <li>✅ <strong>Data cleaning</strong> et prétraitement</li>
+        <li>✅ <strong>Analyse exploratoire (EDA)</strong></li>
+        <li>✅ <strong>Modélisation de bases de données</strong></li>
+        <li>✅ <strong>Requêtes SQL complexes</strong> et optimisation</li>
+        <li>✅ <strong>Big Data processing</strong> (Spark, Hadoop)</li>
+        <li>✅ <strong>Data warehousing</strong> et architecture</li>
+        <li>✅ <strong>Data quality</strong> et gouvernance</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
