@@ -33,11 +33,11 @@
       <ul>
         <li>✅ <strong>Statistiques descriptives et inférentielles</strong></li>
         <li>✅ <strong>Tests d'hypothèses</strong> (t-test, ANOVA, Chi², etc.)</li>
-        <li>✅ <strong>Analyse de régression</strong> (linéaire, logistique, multinomiale)</li>
-        <li>✅ <strong>Analyse de survie</strong> (Kaplan-Meier, Log-Rank, Cox)</li>
-        <li>✅ <strong>Séries temporelles</strong> (ARIMA, SARIMA, Prophet)</li>
-        <li>✅ <strong>Plans d'expériences</strong> et <strong>méthodologie de recherche</strong></li>
-        <li>✅ <strong>Biostatistiques</strong> et études épidémiologiques</li>
+        <li>✅ <strong>Analyse de régression</strong></li>
+        <li>✅ <strong>Analyse de survie</strong></li>
+        <li>✅ <strong>Séries temporelles</strong></li>
+        <li>✅ <strong>Plans d'expériences</strong></li>
+        <li>✅ <strong>Biostatistiques</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -57,8 +57,8 @@
     <td width="50%" valign="top">
       <h3>🤖 Machine Learning & Modélisation</h3>
       <ul>
-        <li>✅ <strong>Apprentissage supervisé</strong> (Classification, Régression)</li>
-        <li>✅ <strong>Apprentissage non supervisé</strong> (Clustering, PCA, t-SNE)</li>
+        <li>✅ <strong>Apprentissage supervisé vvvvvvvvvvvvvvvvvvv vvvvvvvvvvvv</strong></li>
+        <li>✅ <strong>Apprentissage non supervisé</strong></li>
         <li>✅ <strong>Feature Engineering</strong> et sélection de variables</li>
         <li>✅ <strong>Validation croisée</strong> et optimisation d'hyperparamètres</li>
         <li>✅ <strong>Ensemble methods</strong> (Random Forest, Gradient Boosting)</li>
