@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Sefdine | Data Analyst & Business Intelligence Specialist
+# Ahmed Sefdine | Data Analyst & Business Intelligence Specialist
 
 <div align="center">
 
@@ -28,46 +28,6 @@
 📊 **Passion :** Extraire des insights actionnables à partir de données complexes pour guider les décisions stratégiques
 
 🌍 **Localisation :** Dakar, Sénégal 🇸🇳
-
-### 💼 Mes Compétences Clés
-
-\`\`\`python
-class AhmedSefdine:
-    def __init__(self):
-        self.role = "Data Analyst & Business Intelligence Specialist"
-        self.location = "Dakar, Sénégal 🇸🇳"
-        self.education = "Master en Statistique et Informatique Décisionnelle"
-        
-        self.expertise = {
-            "statistical_analysis": ["Analyse de survie", "Tests d'hypothèses", 
-                                    "Modélisation statistique", "Biostatistiques"],
-            "machine_learning": ["Classification", "Régression", "Clustering", 
-                                "Time Series", "Feature Engineering"],
-            "business_intelligence": ["Dashboards", "KPI Tracking", "Reporting", 
-                                     "Data Storytelling", "ETL"],
-            "research": ["Épidémiologie", "Méthodologie", "Publications scientifiques"]
-        }
-        
-        self.tools = {
-            "languages": ["Python", "R", "SQL", "SAS"],
-            "data_analysis": ["Pandas", "NumPy", "SciPy", "Statsmodels"],
-            "visualization": ["Power BI", "Tableau", "Plotly", "Matplotlib", "Seaborn"],
-            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-            "cloud": ["AWS", "Google Cloud", "Azure"],
-            "big_data": ["Apache Spark", "Hadoop"]
-        }
-    
-    def current_mission(self):
-        return """
-        Extraire la valeur cachée dans les données pour transformer 
-        l'information en insights stratégiques actionnables
-        """
-    
-    def seeking(self):
-        return ["Data Analyst roles", "Research collaborations", 
-                "Consulting opportunities", "Open Source projects"]
-\`\`\`
-
 ---
 
 ## 🛠️ Stack Technique Complète
@@ -235,112 +195,6 @@ class AhmedSefdine:
 
 ---
 
-## 📈 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sefdineahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefdineahmed&theme=tokyonight" alt="Profile Summary" />
-
-</div>
-
----
-
-## 🏆 Contributions & Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sefdineahmed&theme=tokyo-night&hide_border=true&area=true&custom_title=Graphique%20de%20Contribution" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎓 Formation & Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Diplômes
-
-- 🎓 **Master en Statistique et Informatique Décisionnelle**
-  - Université Alioune Diop de Bambey (UADB)
-  - Spécialisation : Analyse de données, Machine Learning, BI
-  
-- 📊 **Licence en Statistique**
-  - Formation approfondie en méthodes statistiques
-  - Modélisation mathématique et probabilités
-
-</td>
-<td width="50%">
-
-### 🏅 Certifications (à compléter)
-
-- 📜 **Data Analysis with Python** - *En cours*
-- 📜 **Machine Learning Specialization** - *En cours*
-- 📜 **Power BI Data Analyst** - *Prévu*
-- 📜 **AWS Cloud Practitioner** - *Prévu*
-
-> 💡 *Apprentissage continu et développement des compétences*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Objectifs Professionnels
-
-### 🚀 Mes Ambitions
-
-- 📊 **Court terme :** Approfondir l'expertise en Machine Learning et Deep Learning
-- 🔬 **Moyen terme :** Publier des recherches en biostatistiques et analyse de survie
-- 🎯 **Long terme :** Devenir Lead Data Scientist / BI Architect
-- 🌍 **Vision :** Utiliser la data science pour résoudre des problèmes de santé publique en Afrique
-
----
-
-## 💡 Philosophie de Travail
-
-<div align="center">
-
-| Principe | Description |
-|----------|-------------|
-| 📊 **Data-Driven** | Les décisions doivent être guidées par les données, pas par l'intuition |
-| 🎯 **Rigueur Scientifique** | Appliquer des méthodes statistiques robustes et validées |
-| 🤝 **Collaboration** | Travailler en équipe pour maximiser l'impact des analyses |
-| 📚 **Apprentissage Continu** | Se former constamment aux nouvelles technologies et méthodes |
-| 💡 **Innovation** | Chercher des solutions créatives aux problèmes complexes |
-| 🌍 **Impact Social** | Utiliser l'analyse de données pour améliorer la vie des gens |
-
-</div>
-
----
-
-## 📫 Me Contacter
-
-<div align="center">
-
-### 🤝 **Collaborons Ensemble !**
-
-Je suis toujours ouvert aux opportunités de :
-- 💼 **Missions de consulting** en Data Analysis & Business Intelligence
-- 🔬 **Collaborations de recherche** en biostatistiques et analyse de survie
-- 👥 **Projets open source** et initiatives communautaires
-- 📊 **Projets freelance** en analyse de données et visualisation
 
 <br>
 
