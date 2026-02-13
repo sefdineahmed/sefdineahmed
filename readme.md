@@ -29,50 +29,56 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 📊 Analyse Statistique Avancée
 
 - ✅ **Statistiques descriptives et inférentielles**
-- ✅ **Tests d'hypothèses** (t-test, ANOVA, Chi², etc.)
-- ✅ **Analyse de régression** (linéaire, logistique, multinomiale)
-- ✅ **Analyse de survie** (Kaplan-Meier, Log-Rank, Cox)
-- ✅ **Séries temporelles** (ARIMA, SARIMA, Prophet)
-- ✅ **Plans d'expériences** et **méthodologie de recherche**
-- ✅ **Biostatistiques** et études épidémiologiques
+- ✅ **Tests d'hypothèses** (t-test, ANOVA, Chi²)
+- ✅ **Analyse de régression** (linéaire, logistique)
+- ✅ **Analyse de survie** (Kaplan-Meier, Cox)
+- ✅ **Séries temporelles** (ARIMA, Prophet)
+- ✅ **Plans d'expériences** & méthodologie
+- ✅ **Biostatistiques** et épidémiologie
+
+</td>
+<td width="25%" valign="top">
 
 ### 🤖 Machine Learning & Modélisation
 
-- ✅ **Apprentissage supervisé** (Classification, Régression)
-- ✅ **Apprentissage non supervisé** (Clustering, PCA, t-SNE)
-- ✅ **Feature Engineering** et sélection de variables
-- ✅ **Validation croisée** et optimisation d'hyperparamètres
-- ✅ **Ensemble methods** (Random Forest, Gradient Boosting)
-- ✅ **Deep Learning** (réseaux de neurones, CNN, RNN)
+- ✅ **Apprentissage supervisé** (classification, régression)
+- ✅ **Apprentissage non supervisé** (clustering, PCA)
+- ✅ **Feature Engineering** & sélection
+- ✅ **Validation croisée** & optimisation
+- ✅ **Ensemble methods** (Random Forest, XGBoost)
+- ✅ **Deep Learning** (CNN, RNN)
 - ✅ **MLOps** et déploiement de modèles
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 📈 Business Intelligence & Reporting
 
-- ✅ **Conception de tableaux de bord interactifs**
-- ✅ **KPI tracking** et métriques business
+- ✅ **Tableaux de bord interactifs** (Power BI, Tableau)
+- ✅ **KPI tracking** & métriques business
 - ✅ **ETL** (Extract, Transform, Load)
-- ✅ **Data Storytelling** et communication visuelle
-- ✅ **Reporting automatisé** et planification
-- ✅ **Analyse de performance** et optimisation
+- ✅ **Data Storytelling** & communication visuelle
+- ✅ **Reporting automatisé** & planification
+- ✅ **Analyse de performance** & optimisation
 - ✅ **Data-driven decision making**
+
+</td>
+<td width="25%" valign="top">
 
 ### 🗂️ Gestion & Ingénierie des Données
 
-- ✅ **Data cleaning** et prétraitement
+- ✅ **Data cleaning** & prétraitement
 - ✅ **Analyse exploratoire (EDA)**
 - ✅ **Modélisation de bases de données**
-- ✅ **Requêtes SQL complexes** et optimisation
+- ✅ **Requêtes SQL complexes** & optimisation
 - ✅ **Big Data processing** (Spark, Hadoop)
-- ✅ **Data warehousing** et architecture
-- ✅ **Data quality** et gouvernance
+- ✅ **Data warehousing** & architecture
+- ✅ **Data quality** & gouvernance
 
 </td>
 </tr>
