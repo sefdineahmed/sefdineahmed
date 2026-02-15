@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Header animé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Sefdine&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Statisticien%20%7C%20BI%20Specialist&descAlignY=51&descSize=18" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Sefdine&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Statistician%20%7C%20BI%20Specialist&descAlignY=51&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Statisticien+%7C+Machine+Learning+%F0%9F%A4%96;Business+Intelligence+Expert+%F0%9F%92%BC;2%2B+Years+Experience+in+Analytics+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Statistician+%7C+Machine+Learning+%F0%9F%A4%96;Business+Intelligence+Expert+%F0%9F%92%BC;2%2B+Years+Experience+in+Analytics+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges sociaux -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/sefdineahmed?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sefdineahmed?color=green&logo=github&style=for-the-badge">
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 À Propos de Moi
+## 🎯 About Me
 
 <img align="right" alt="Data Analytics" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -33,29 +33,30 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Ahmed Sefdine"
-        self.role = "Data Analyst & Statisticien"
-        self.location = "Dakar, Sénégal 🇸🇳"
-        self.education = "Master en Statistique et Informatique Décisionnelle"
-        self.experience = "2+ années"
-        self.research = "Analyse de survie du cancer gastrique"
+        self.role = "Data Analyst & Statistician"
+        self.location = "Dakar, Senegal 🇸🇳"
+        self.education = "Master's in Statistics and Decision Science Informatics"
+        self.experience = "2+ years"
+        self.research = "Survival analysis of gastric cancer"
         
     def say_hi(self):
-        print("Merci de visiter mon profil ! Transformons les données en décisions éclairées 📊")
+        print("Thanks for visiting my profile! Let's transform data into informed decisions 📊")
 
 me = DataAnalyst()
 me.say_hi()
 ```
 
-> 💡 **Mission :** Transformer les données complexes en insights stratégiques actionnables
+> 💡 **Mission:** Transforming complex data into actionable strategic insights
 
-🔬 **Recherche Actuelle :** Analyse de survie appliquée au cancer gastrique au Sénégal (Kaplan-Meier, Cox regression)
+🔬 **Current Research:** Survival analysis applied to gastric cancer in Senegal (Kaplan-Meier, Cox regression)
 
-🎓 **Formation :** Master en Statistique et Informatique Décisionnelle - spécialisation biostatistiques
+🎓 **Education:** Master's in Statistics and Decision Science Informatics - Biostatistics specialization
 
-💼 **Objectif :** Extraire de la valeur des données pour guider les décisions basées sur des preuves
+💼 **Goal:** Extracting value from data to guide evidence-based decisions
 
 ---
-## 🛠️ Stack Technique
+
+## 🛠️ Tech Stack
 
 | Category | Badge 1 | Badge 2 | Badge 3 | Badge 4 | Badge 5 | Badge 6 |
 |----------|---------|---------|---------|---------|---------|---------|
@@ -67,7 +68,8 @@ me.say_hi()
 | Cloud & Tools | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | | | |
 
 ---
-## 💼 Domaines d'Expertise
+
+## 💼 Areas of Expertise
 
 <div align="center">
 
@@ -75,27 +77,27 @@ me.say_hi()
 <tr>
 <td width="50%" valign="122">
 
-### 📊 Analyse Statistique Avancée
+### 📊 Advanced Statistical Analysis
 ```yaml
-Statistiques Descriptives & Inférentielles:
-  - Tests d'hypothèses (t-test, ANOVA, chi²)
-  - Intervalles de confiance
-  - Analyse de variance
+Descriptive & Inferential Statistics:
+  - Hypothesis testing (t-test, ANOVA, chi²)
+  - Confidence intervals
+  - Analysis of variance
 
-Modélisation Statistique:
-  - Régression linéaire & logistique
-  - Analyse de survie (Kaplan-Meier, Cox)
-  - Modèles GLM/GLMM
+Statistical Modeling:
+  - Linear & logistic regression
+  - Survival analysis (Kaplan-Meier, Cox)
+  - GLM/GLMM models
 
-Séries Temporelles:
+Time Series:
   - ARIMA, SARIMA
   - Prophet, Exponential Smoothing
-  - Détection d'anomalies
+  - Anomaly detection
 
-Recherche & Design:
-  - Plans d'expériences (DOE)
-  - Biostatistiques
-  - Épidémiologie
+Research & Design:
+  - Design of experiments (DOE)
+  - Biostatistics
+  - Epidemiology
 ```
 
 </td>
@@ -103,25 +105,25 @@ Recherche & Design:
 
 ### 📈 Business Intelligence
 ```yaml
-Visualisation de Données:
-  - Dashboards interactifs (Power BI, Tableau)
-  - Data Storytelling
-  - Rapports exécutifs
+Data Visualization:
+  - Interactive dashboards (Power BI, Tableau)
+  - Data storytelling
+  - Executive reports
 
 Performance & KPIs:
-  - Définition et tracking de KPIs
-  - Analyse de tendances
+  - KPI definition and tracking
+  - Trend analysis
   - Benchmarking
 
-Processus ETL:
-  - Extraction, transformation, chargement
-  - Automatisation des rapports
-  - Data Quality Management
+ETL Processes:
+  - Extract, transform, load
+  - Report automation
+  - Data quality management
 
-Stratégie Data-Driven:
-  - Aide à la décision
-  - Analyse prédictive
-  - ROI Analytics
+Data-Driven Strategy:
+  - Decision support
+  - Predictive analysis
+  - ROI analytics
 ```
 
 </td>
@@ -132,25 +134,25 @@ Stratégie Data-Driven:
 
 ### 🤖 Machine Learning
 ```yaml
-Apprentissage Supervisé:
+Supervised Learning:
   - Classification (Random Forest, SVM, XGBoost)
-  - Régression (Ridge, Lasso, ElasticNet)
-  - Ensemble Methods
+  - Regression (Ridge, Lasso, ElasticNet)
+  - Ensemble methods
 
-Apprentissage Non-Supervisé:
+Unsupervised Learning:
   - Clustering (K-means, DBSCAN, Hierarchical)
-  - Réduction de dimensionnalité (PCA, t-SNE)
-  - Détection d'anomalies
+  - Dimensionality reduction (PCA, t-SNE)
+  - Anomaly detection
 
 Deep Learning:
   - CNN (Computer Vision)
   - RNN/LSTM (Time Series)
-  - Transfer Learning
+  - Transfer learning
 
 MLOps:
-  - Feature Engineering
-  - Hyperparameter Tuning
-  - Model Validation & Deployment
+  - Feature engineering
+  - Hyperparameter tuning
+  - Model validation & deployment
 ```
 
 </td>
@@ -158,25 +160,25 @@ MLOps:
 
 ### 🗂️ Data Engineering
 ```yaml
-Préparation des Données:
-  - Data Cleaning & Wrangling
-  - EDA (Exploratory Data Analysis)
-  - Feature Selection
+Data Preparation:
+  - Data cleaning & wrangling
+  - Exploratory Data Analysis (EDA)
+  - Feature selection
 
-Architecture de Données:
-  - SQL Avancé (Joins, Subqueries, CTEs)
-  - Data Warehousing
-  - Schémas Star & Snowflake
+Data Architecture:
+  - Advanced SQL (Joins, subqueries, CTEs)
+  - Data warehousing
+  - Star & snowflake schemas
 
 Infrastructure:
   - Big Data (Apache Spark)
-  - Data Pipeline Automation
-  - Data Governance
+  - Data pipeline automation
+  - Data governance
 
 Best Practices:
   - Documentation
-  - Version Control
-  - Reproducible Research
+  - Version control
+  - Reproducible research
 ```
 
 </td>
@@ -187,26 +189,26 @@ Best Practices:
 
 ---
 
-## 🏆 Compétences Clés
+## 🏆 Key Skills
 
 <div align="center">
 
-| **Catégorie** | **Compétences** | **Niveau** |
+| **Category** | **Skills** | **Level** |
 |:-------------------------------------------|:------------------------------------------------------------------------------------------|:-----------------------------------:|
-| 📊 **Statistiques** | Tests d'hypothèses, ANOVA, Régression | ⭐⭐⭐⭐⭐ |
+| 📊 **Statistics** | Hypothesis testing, ANOVA, Regression | ⭐⭐⭐⭐⭐ |
 | 🤖 **Machine Learning** | Random Forest, XGBoost, Deep Learning | ⭐⭐⭐⭐⭐ |
-| 📈 **BI Tools** | Power BI, Tableau, Excel Avancé | ⭐⭐⭐⭐⭐ |
+| 📈 **BI Tools** | Power BI, Tableau, Advanced Excel | ⭐⭐⭐⭐⭐ |
 | 🐍 **Python** | Pandas, Scikit-learn, Streamlit | ⭐⭐⭐⭐⭐ |
-| 🗄️ **SQL** | Requêtes complexes, Optimisation | ⭐⭐⭐⭐ |
+| 🗄️ **SQL** | Complex queries, Optimization | ⭐⭐⭐⭐ |
 | 📉 **Data Viz** | Plotly, Matplotlib, Seaborn | ⭐⭐⭐⭐⭐ |
-| 🔬 **Analyse de Survie** | Kaplan-Meier, Cox Regression | ⭐⭐⭐⭐⭐ |
+| 🔬 **Survival Analysis** | Kaplan-Meier, Cox Regression | ⭐⭐⭐⭐⭐ |
 | ☁️ **Big Data** | Apache Spark, Data Pipelines | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 📫 Me Contacter
+## 📫 Contact Me
 
 <div align="center">
 
@@ -219,7 +221,7 @@ Best Practices:
 
 ---
 
-## 💡 Citation Favorite
+## 💡 Favorite Quotes
 
 <div align="center">
   
@@ -243,11 +245,11 @@ Best Practices:
 
 <div align="center">
 
-### ⭐️ Si mes projets vous inspirent, n'hésitez pas à les star !
+### ⭐️ If my projects inspire you, feel free to star them!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**© 2025 Ahmed Sefdine** | Fait avec ❤️ et beaucoup de ☕
+**© 2025 Ahmed Sefdine** | Made with ❤️ and lots of ☕
 
 *"Transforming data into insights, one analysis at a time"* 📊✨
 
