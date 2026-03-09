@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ahmed%20Sefdine&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20·%20Statistician%20·%20BI%20Specialist&descAlignY=58&descSize=20&descColor=8b949e" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=📊+Turning+raw+data+into+strategic+decisions;🔬+Biostatistics+%26+Survival+Analysis+Researcher;🤖+Machine+Learning+%7C+Deep+Learning+Engineer;💼+Business+Intelligence+%26+Dashboard+Expert" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -15,7 +13,6 @@
 
 </div>
 
----
 
 ## 👤 About Me
 
@@ -36,7 +33,6 @@ Survival analysis of **gastric cancer in Senegal** — Kaplan-Meier estimators &
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +73,6 @@ Survival analysis of **gastric cancer in Senegal** — Kaplan-Meier estimators &
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
----
 
 ## 🧠 Areas of Expertise
 
@@ -133,37 +128,9 @@ Survival analysis of **gastric cancer in Senegal** — Kaplan-Meier estimators &
 - Big Data — Apache Spark
 - Version control & reproducible research
 ```
-
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sefdineahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefdineahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sefdineahmed&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sefdineahmed&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/sefdineahmed)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -171,27 +138,6 @@ Survival analysis of **gastric cancer in Senegal** — Kaplan-Meier estimators &
 
 </div>
 
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-> *"In God we trust. All others must bring data."* — W. Edwards Deming
-
-<br/>
-
-Whether you want to discuss a data challenge, collaborate on research, or simply connect — feel free to reach out!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefdineahmed)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://sefdineahmed.github.io)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefdinecollab@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer" width="100%"/>
