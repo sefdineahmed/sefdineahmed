@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sefdine-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefdineahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sefdineahmed.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=58a6ff)](https://sefdineahmed.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-sefdinecollab%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sefdinecollab@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sefdineahmed&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/sefdineahmed)
+[![Profile Views](https://komarev.com/ghpvc/?username=sefdineahmed&color=58a6ff&style=flat-square&label=Profile+Views)](https://sefdineahmed.github.io/portfolio/)
 
 </div>
 
