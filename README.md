@@ -25,7 +25,7 @@ Avec **2+ ans d'expérience**, je transforme des données brutes en **insights a
 Passionné par la data, le BI et le machine learning, je suis ouvert à toute opportunité qui me permettra de créer de la valeur à partir des données.
 
 
-## 🛠️ COMPÉTENCES TECHNIQUES
+## COMPÉTENCES TECHNIQUES
 
 | **Catégorie** | **Outils & Technologies** |
 |---------------|---------------------------|
@@ -40,7 +40,7 @@ Passionné par la data, le BI et le machine learning, je suis ouvert à toute op
 
 ---
 
-## 📊 MÉTHODES & APPROCHES
+## MÉTHODES & APPROCHES
 
 | **Domaine** | **Méthodes** |
 |-------------|--------------|
