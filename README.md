@@ -21,7 +21,8 @@ Avec **2+ ans d'expérience**, je transforme des données brutes en **insights a
 
 > *"I don't just analyze data. I turn numbers into stories that make decision-makers act."*
 
-*Actuellement à la recherche de nouveaux défis**  
+*Actuellement à la recherche de nouveaux défis*
+
 Passionné par la data, le BI et le machine learning, je suis ouvert à toute opportunité qui me permettra de créer de la valeur à partir des données.
 
 
