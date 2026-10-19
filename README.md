@@ -48,4 +48,4 @@ Passionné par la data, le BI et le machine learning, je suis ouvert à toute op
 | **Apprentissage non supervisé** | K-means, CAH, DBSCAN, PCA, ACM, t-SNE, UMAP |
 | **Clustering** | Segmentation client, analyse de profils, typologie |
 | **Séries temporelles** | Décomposition, lissage exponentiel, ARIMA, SARIMA, Prophet |
-| **Biostatistiques** | Analyse de survie, essais cliniques, épidémiologie, données longitudinales, regression de cox, Kappla & Meier |
+| **Biostatistiques** | Analyse de survie, essais cliniques, épidémiologie, données longitudinales, modèles mixtes, inférence causale, méta-analyse |
