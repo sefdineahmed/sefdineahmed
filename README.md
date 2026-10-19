@@ -37,7 +37,6 @@ Passionné par la data, le BI et le machine learning, je suis ouvert à toute op
 | **Séries Temporelles** | ![Séries temporelles](https://img.shields.io/badge/Séries_temporelles-FFB347?style=for-the-badge) ![Prévision](https://img.shields.io/badge/Prévision-FF9800?style=for-the-badge) ![ARIMA](https://img.shields.io/badge/ARIMA-795548?style=for-the-badge) ![SARIMA](https://img.shields.io/badge/SARIMA-8D6E63?style=for-the-badge) |
 | **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
 
----
 
 ## MÉTHODES & APPROCHES
 
@@ -49,4 +48,4 @@ Passionné par la data, le BI et le machine learning, je suis ouvert à toute op
 | **Apprentissage non supervisé** | K-means, CAH, DBSCAN, PCA, ACM, t-SNE, UMAP |
 | **Clustering** | Segmentation client, analyse de profils, typologie |
 | **Séries temporelles** | Décomposition, lissage exponentiel, ARIMA, SARIMA, Prophet |
-| **Biostatistiques** | Analyse de survie, essais cliniques, épidémiologie, données longitudinales |
+| **Biostatistiques** | Analyse de survie, essais cliniques, épidémiologie, données longitudinales, regression de cox, kappla-meier |
