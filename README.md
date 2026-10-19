@@ -15,7 +15,7 @@
 
 ## À propos de moi
 
-Je suis **Data Analyst & Statisticien**, titulaire d'un Master en **Statistiques et Informatique Décisionnelle** (spécialisation Biostatistiques).  
+Je suis **Statisticien & Business Intelligence Analyst**.  
 
 Avec **2+ ans d'expérience**, je transforme des données brutes en **insights actionnables** : dashboards percutants, modèles prédictifs fiables, rapports qui font agir les décideurs.  
 
