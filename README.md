@@ -49,3 +49,18 @@ Passionné par la data, le BI et le machine learning, je suis ouvert à toute op
 | **Clustering** | Segmentation client, analyse de profils, typologie |
 | **Séries temporelles** | Décomposition, lissage exponentiel, ARIMA, SARIMA, Prophet |
 | **Biostatistiques** | Analyse de survie, essais cliniques, épidémiologie, données longitudinales, modèles mixtes, inférence causale, méta-analyse |
+
+
+
+## Mes projets Data Analytics & Business Intelligence
+
+Les projets sont hébergés dans des dépôts GitHub indépendants. Cliquez sur **Voir le projet** pour accéder au code source, aux notebooks, aux analyses et aux visualisations disponibles.
+
+| # | Projet | Description | Technologies | Repository |
+|---|---|---|---|---|
+| 01 | **E-commerce Sales Analytics** | Analyse des ventes e-commerce pour identifier les tendances commerciales, les produits performants et le comportement des clients. | Python, Pandas, Matplotlib, Seaborn | [Voir le projet](https://github.com/sefdineahmed/ecommerce-sales) |
+| 02 | **Superstore Business Intelligence** | Conception d'un dashboard interactif pour analyser les ventes, la rentabilité et les performances commerciales. | Power BI, Power Query, DAX | [Voir le projet](https://github.com/sefdineahmed/superstore-bi) |
+| 03 | **Customer Churn Analytics** | Analyse du désabonnement client, identification des facteurs de churn et exploration de modèles prédictifs. | Python, Pandas, Scikit-learn, Power BI | [Voir le projet](https://github.com/sefdineahmed/customer-churn) |
+| 04 | **Hotel Booking Analytics** | Analyse des réservations hôtelières pour comprendre les annulations, les comportements de réservation et les tendances d'occupation. | Python, Pandas, Power BI | [Voir le projet](https://github.com/sefdineahmed/hotel-booking) |
+| 05 | **NYC Taxi Data Analytics** | Exploration des données de taxis new-yorkais pour étudier les déplacements, les tendances temporelles et la demande de transport. | PostgreSQL, SQL, Python, Power BI | [Voir le projet](https://github.com/sefdineahmed/nyc-taxi) |
+
